@@ -1,0 +1,5 @@
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Trading_Apple_Stocks\bin\Debug\Trading_Apple_Stocks.exe.config
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Trading_Apple_Stocks\bin\Debug\Trading_Apple_Stocks.exe
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Trading_Apple_Stocks\bin\Debug\Trading_Apple_Stocks.pdb
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Trading_Apple_Stocks\obj\Debug\Trading_Apple_Stocks.exe
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Trading_Apple_Stocks\obj\Debug\Trading_Apple_Stocks.pdb

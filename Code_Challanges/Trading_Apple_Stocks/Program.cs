@@ -1,4 +1,7 @@
-﻿namespace Trading_Apple_Stocks
+﻿using System;
+using System.Linq;
+
+namespace Trading_Apple_Stocks
 {
 
     /* Writing programming interview questions hasn't made me rich. Maybe trading Apple stocks will.
@@ -25,8 +28,23 @@
      */
     class Program
     {
-        static void Main(string[] args)
+        public static int MyFunction(int[] appleStock)
         {
+            // Write the body of your function here
+            var max = appleStock.Max()-appleStock.Take(Array.LastIndexOf(appleStock, appleStock.Max())+1).Min();
+            return max;
         }
+
+        public static void Main(string[] args)
+        {
+            // Run your function through some test cases here.
+            // Remember: debugging is half the battle!
+            int[] testInput = { 10,2,5,5,7,23,5};
+            int[] testInput1 = { 10, 7, 5, 8, 11, 9 };
+            Console.WriteLine(MyFunction(testInput1));
+            Console.ReadLine();
+        }
+
+
     }
 }
