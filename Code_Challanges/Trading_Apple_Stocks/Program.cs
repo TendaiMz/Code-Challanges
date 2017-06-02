@@ -30,9 +30,8 @@ namespace Trading_Apple_Stocks
     {
         public static int MyFunction(int[] appleStock)
         {
-            // Write the body of your function here
-            var max = appleStock.Max()-appleStock.Take(Array.LastIndexOf(appleStock, appleStock.Max())+1).Min();
-            return max;
+            // Write the body of your function here         
+            return appleStock.Max() - appleStock.Take(Array.LastIndexOf(appleStock, appleStock.Max()) + 1).Min(); ;
         }
 
         public static void Main(string[] args)
