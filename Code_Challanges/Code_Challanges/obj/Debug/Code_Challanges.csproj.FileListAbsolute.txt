@@ -1,0 +1,6 @@
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\bin\Debug\Code_Challanges.exe.config
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\bin\Debug\Code_Challanges.exe
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\bin\Debug\Code_Challanges.pdb
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\obj\Debug\Code_Challanges.csprojResolveAssemblyReference.cache
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\obj\Debug\Code_Challanges.exe
+C:\Projects\Repos\Coding-Practice\Code_Challanges\Code_Challanges\obj\Debug\Code_Challanges.pdb

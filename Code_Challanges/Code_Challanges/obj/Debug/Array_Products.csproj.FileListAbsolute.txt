@@ -1,0 +1,3 @@
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Code_Challanges\bin\Debug\Code_Challanges.exe.config
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Code_Challanges\obj\Debug\Code_Challanges.exe
+C:\Projects\Repos\Code-Challanges\Code_Challanges\Code_Challanges\obj\Debug\Code_Challanges.pdb
